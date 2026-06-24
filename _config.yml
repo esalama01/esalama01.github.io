@@ -14,11 +14,11 @@ author:
   avatar           : "logo_gif.gif"
   name             : "El Mehdi Salama"
   pronouns         : "he/him"  
-  bio              : "Data Science & AI Master's Student. I build complex systems from scratch."
-  location         : "Khouribga, Morocco"
-  employer         : "Université Sultan Moulay Slimane"
+  bio              : "Data Science & AI Master's Student, I usually tend to build things from scratch."
+  location         : "Morocco"
+  employer         : "Sultan Moulay Slimane University"
   uri              : 
-  email            : "Salamaelmehdi2001@gmail.com" 
+  email            : "mehdi@esalama01.me" 
 
   # Academic websites
   academia         : 
@@ -61,7 +61,7 @@ author:
   steam            : 
   telegram         : 
   tumblr           : 
-  twitter          : 
+  twitter          : "esalama001"
   vine             : 
   weibo            : 
   wikipedia        : 
