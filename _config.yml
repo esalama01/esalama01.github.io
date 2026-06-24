@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" 
-title                    : "εsalama01"
+title                    : "El Mehdi Salama"
 title_separator          : "-"
 name                     : &name "esalama01"
 description              : &description "Interested in Statistical Learning, Golang and other things.."  
